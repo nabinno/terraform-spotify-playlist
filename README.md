@@ -1,4 +1,4 @@
-# terraform-spotify-playlist
+# TF Summer City --- Terraform Summer Playlist
 Ref. [Create a Spotify Playlist with Terraform | Terraform - HashiCorp Learn](https://learn.hashicorp.com/tutorials/terraform/spotify-playlist)
 
 ## Launch spotify_auth_proxy (Authentication Server)
