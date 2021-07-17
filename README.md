@@ -20,3 +20,19 @@ Auth:   http://localhost:27228/authorize?token=xxxxxx...
 $ terraform init
 $ terraform apply
 ```
+
+---
+
+## LISENCE
+MIT
+
+## EPILOGUE
+>     A whale!
+>     Down it goes, and more, and more
+>     Up goes its tail!
+>
+>     -Buson Yosa
+
+---
+
+<b id="f1">[1]</b> "Two Buddhist monks, playing chess" (1863-1872, John Thomson) credited in Wellcome Collection is licensed by [CC 4.0 BY](https://creativecommons.org/licenses/by/4.0/) [↩](#a1)
